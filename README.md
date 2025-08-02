@@ -25,6 +25,18 @@ A professional-grade Body Mass Index calculator built with React, featuring real
 - **Accessibility**: WCAG-compliant color contrast and semantic HTML
 - **Progressive Enhancement**: Works without JavaScript for basic calculations
 
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### BMI Result
+![BMI Result](screenshots/BMI.png)
+
+### History Section
+![History Section](screenshots/charts.png)
+
+
 ## 🚀 Demo
 
 **[🔗 Live Demo](https://josh-bmi-calculator-pro.vercel.app/)** - Try it yourself!
