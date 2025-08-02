@@ -2,11 +2,6 @@
 
 A professional-grade Body Mass Index calculator built with React, featuring real-time validation, 7-day history tracking, and interactive data visualization.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-vercel-url.vercel.app)
-[![React](https://img.shields.io/badge/React-18.x-blue)](https://reactjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 ## 🌟 Features
 
 ### Core Functionality
@@ -32,9 +27,7 @@ A professional-grade Body Mass Index calculator built with React, featuring real
 
 ## 🚀 Demo
 
-![BMI Calculator Demo](https://via.placeholder.com/800x400/6366f1/ffffff?text=BMI+Calculator+Demo)
-
-**[🔗 Live Demo](https://your-vercel-url.vercel.app)** - Try it yourself!
+**[🔗 Live Demo](https://josh-bmi-calculator-pro.vercel.app/)** - Try it yourself!
 
 ## 🛠️ Built With
 
@@ -207,39 +200,17 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Joshua Omialni**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- GitHub: (https://github.com/J2nx99)
+- LinkedIn: (https://linkedin.com/in/joshua-omilani-5723b6255)
+- Portfolio: ](https://joshua-omilani.vercel.app/)
 
-## 🙏 Acknowledgments
 
-- **WHO**: For BMI calculation standards
-- **React Team**: For the amazing React framework
-- **Tailwind CSS**: For the utility-first styling approach
-- **Recharts**: For beautiful chart components
-- **Lucide**: For consistent iconography
-
-## 📞 Support
-
-If you have any questions or run into issues, please:
-
-1. Check the [Issues](https://github.com/yourusername/bmi-calculator-pro/issues) page
-2. Create a new issue if your problem isn't already listed
-3. Provide detailed information about your environment and the issue
-
----
-
-<div align="center">
-
-**[⭐ Star this repository](https://github.com/yourusername/bmi-calculator-pro)** if you found it helpful!
+**[⭐ Star this repository](https://github.com/j2n99/bmi-calculator-pro)** if you found it helpful!
 
 Made with ❤️ and React
 
